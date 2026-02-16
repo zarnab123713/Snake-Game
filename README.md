@@ -44,14 +44,14 @@ Designed for **smooth gameplay**, **mobile-friendly controls**, and **fun arcade
 ## 💾 Installation / Usage
 
 1. Clone the repository:  
-```bash
+
 git clone https://github.com/zarnab123731/pro-snake-game.git
 
 2.Open index.html in any browser
 
 3.Enjoy playing 🎮
 
-##📈 Roadmap / Next Features
+## 📈 Roadmap / Next Features
 
 Multiple coins on screen
 
@@ -65,7 +65,7 @@ Swipe controls for mobile devices
 
 Level-based speed ramping
 
-📝 Author
+## 📝 Author
 
 Silent eXpert|Zarnab Fatima
 
