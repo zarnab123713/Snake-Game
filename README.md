@@ -40,6 +40,10 @@ Designed for **smooth gameplay**, **mobile-friendly controls**, and **fun arcade
 - **JavaScript** – Game logic, movement, scoring, and collision detection  
 
 ---
+## Screenshot
+
+<img width="1224" height="641" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/2cab0e0a-3057-4f0a-86cb-7b8ae682a233" />
+
 
 ## 💾 Installation / Usage
 
